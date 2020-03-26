@@ -36,9 +36,7 @@ Setup for experiment with fan moving
 
 In this experiment, something new to me was the loop block "while do" and the math block "_+_." To my understanding, the 'while do' blocks in the experiment means when the speed of the fan is lower than 1023 which is the maximum speed, the fan must continue to spin through the "'Duty'+ 1" block until it reaches higher than 1023. Then the second 'while do' block means when the speed is higher than 0, the fan reduces speed through the "'Duty' - 1" block until it reaches lower than 0 which the fan is stopped. This cycle is done again as it is in the forever loop.
 
-This experiment could be the basis of a real world application such as (insert something here).
-
-
+This experiment could be the basis of a real world application such as keeping an object in a balanced temperature.
 
 ### Experiment Five ###
 
@@ -55,7 +53,7 @@ Same setup as experiment four
 Something new to me was the "absolute of" block and the "acceleration" block. I think the "absolute of" block is supposed to detect the movement of the pin P0 and the "acceleration (mg)''y" block spins the fan at maximum speed when tilt upright.
 
 
-This experiment could be the basis of a real world application such as (insert something here).
+This experiment could be the basis of a real world application such as a toy.
 
 
 
@@ -90,5 +88,5 @@ Setup of experiment while the microbit is calibrating
 
 Something new to me was creating javascript codes instead of the MakeCode Editor. Before putting the code into the microbit, I tried to transfer it to the MakeCode Editor to see how it would look like if it was done there. The first attempt I tried didn't work as I didn't notice there was a code that wasn't highlighted right because it was not correctly selected through the code that appears while being typed down. I also made sure that I was using the right code for the "math.random" becoming "math.randomrange" due to the updates, and it worked.
 
-This experiment could be the basis of a real world application such as a toy.
+This experiment could be the basis of a real world application such as a game.
 
