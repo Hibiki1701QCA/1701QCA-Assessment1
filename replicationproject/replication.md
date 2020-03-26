@@ -9,8 +9,6 @@
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
-I had trouble finding four more projects as 
-
 ### Temperature Gauge How to ###
 
 (https://www.hackster.io/anish78/how-to-create-temperature-gauge-using-micro-bit-a601cc)
@@ -35,13 +33,13 @@ This project is related to mine because in the assignment, as it helped me get a
 
 This project is similar to the first project however, related to mine because it helped me in how the microbit would function with the temperature reading and the servo movement which is not shown in the first.
 
-## ##
+## Temperature sensor ##
 
-(https://www.youtube.com/watch?v=_T4N8O9xsMA)
+(https://www.youtube.com/watch?v=pHDYsy6xyE4)
 
-![Image]()
+![Image](proj4.PNG)
 
-This project is related to mine because
+This project is related to mine because it utilises the temperature sensor and shows a way to use it.
 
 ## Microbit Thermometer ##
 
@@ -106,20 +104,20 @@ On the start up, the servo could point to position 0 to show that it moves.
 
 *What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
 
-
+I have never really thought about this before.
 
 *What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
 
+I think the message of the reading is the process is important and even if "it's not easy, you can do it."
 
 
 *What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
-
+Other projects sharing their process and how they did.
 
 *How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
 
-
-
+I have had trouble working on mine as well, trying to get the servo to work with the fan but I eventually got it to work as well which I can relate to this.
 
 ## Interaction flowchart ##
 *Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
@@ -140,16 +138,22 @@ For the servo display of the temperature, I cut out a small piece of cardboard a
 
 To cover up the breadboard, I used more cardboard to cut out two seperate pieces that make a box when combined. 
 
+![Image](1.jpg)
+
 ![Image](image1.jpg)
 
 ![Image](image2.jpg)
 
+And I cut out a hole to show the microbit so the temperature sensor can detect the temperature better.
 
-![Image](1.jpg)
-
+Before
 ![Image](2.jpg)
 
-![Image](4.jpg)
+After
+![Image](3.jpg)
+
+Code
+![Image](code.PNG)
 
 
 *This should have quite a lot of information!*
